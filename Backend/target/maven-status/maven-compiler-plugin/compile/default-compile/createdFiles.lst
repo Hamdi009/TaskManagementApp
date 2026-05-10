@@ -1,0 +1,6 @@
+com\hamdiAbdelaoui\task\controller\TaskController.class
+com\hamdiAbdelaoui\task\service\TaskService.class
+com\hamdiAbdelaoui\task\config\SecurityConfig.class
+com\hamdiAbdelaoui\task\repository\TaskRepository.class
+com\hamdiAbdelaoui\task\models\Task.class
+com\hamdiAbdelaoui\task\TaskApplication.class
