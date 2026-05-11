@@ -131,5 +131,5 @@ CSRF protection is disabled because the backend uses a stateless REST API archit
 
 ## List of tasks
 
-![Validation](./images/list-task.png)
+![List task](./images/list-task.png)
 
