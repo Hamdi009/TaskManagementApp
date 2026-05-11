@@ -36,11 +36,13 @@ The application allows users to:
 
 # Project Structure
 
+```text
 project-root/
 │
 ├── backend/
 ├── frontend/
 └── README.md
+```
 
 ---
 
