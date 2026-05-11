@@ -115,3 +115,21 @@ CSRF protection is disabled because the backend uses a stateless REST API archit
 
 ---
 
+# Screenshots
+
+## Dashboard
+
+![Dashboard](./images/dashboard.png)
+
+## Create Task
+
+![Create Task](./images/create-task.png)
+
+## Edit Task
+
+![Edit Task](./images/edit-task.png)
+
+## List of tasks
+
+![Validation](./images/list-task.png)
+
